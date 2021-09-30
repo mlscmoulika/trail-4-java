@@ -21,6 +21,13 @@ public class Electricity_Bill
     {
         System.out.println("Customer name :"+name);
         System.out.println("Diffrenece read:"+diff_read);
+        System.out.println("Below info provided for better understanding");
+        System.out.println("Last read : "+last_read);
+        System.out.println("present read : "+present_read);
+        
+        
+        
+        
     }
     
     public int difference_read()
